@@ -1,0 +1,3 @@
+models for Appendix B
+
+this model uses 2 latent variables, network: gen_param uses tanh() as activation function
